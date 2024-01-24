@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alex Petit
 - 👀 I’m interested in everything outdoors!
-- 🌱 I’m currently learning everything coding, related. I'm constantly teaching myself new methods in every language I write in.
 
 
 <!---
